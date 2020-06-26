@@ -1,0 +1,31 @@
+.main{
+    border: 2px solid rgb(2, 56, 63);
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 98%;
+    background-color: rgb(48, 48, 252);
+    color: rgb(2, 0, 15);
+   border: rgb(232, 232, 250);
+ 
+}
+.clearBtn{
+width: 100%;
+margin-top: 10px;
+color: rgb(21, 18, 54);
+border: rgb(200, 200, 231);
+background-color: blue;
+}
+.btn{
+    margin: 1px;
+    background-color: blue;
+    border: rgb(213, 213, 241);
+    width: 45px;
+}
+.abc{
+    background-color: blue;
+    border: rgb(220, 220, 243);
+    width: 97px;
+    margin-top: 5px;
+}
